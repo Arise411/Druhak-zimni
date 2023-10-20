@@ -1,0 +1,4 @@
+﻿  adventofcode.cpp
+C:\Users\PC\source\repos\adventofcode\adventofcode\adventofcode.cpp(23,27): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+C:\Users\PC\source\repos\adventofcode\adventofcode\adventofcode.cpp(35,27): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  adventofcode.vcxproj -> C:\Users\PC\source\repos\adventofcode\x64\Debug\adventofcode.exe
